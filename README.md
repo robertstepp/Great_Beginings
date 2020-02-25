@@ -1,19 +1,19 @@
 # Great_Beginings
   Minecraft Modpack
-  # Mods:
-  Draconic Evolution
-  Cooking for Blockheads
-  Farming for Blockheads
-  EnderIO
-  EnderIO Endergy
-  Thaumcraft
-  Thaumic Grid (RS)
-  Refined Storage
-  More Storage (RS)
-  Storage Reborn (RS)
-  Storage Drawers
-  Random Things
-  FTB Quests
+  ## Mods:
+  - Draconic Evolution
+  - Cooking for Blockheads
+  - Farming for Blockheads
+  - EnderIO
+  - EnderIO Endergy
+  - Thaumcraft
+  - Thaumic Grid (RS)
+  - Refined Storage
+  - More Storage (RS)
+  - Storage Reborn (RS)
+  - Storage Drawers
+  - Random Things
+  - FTB Quests
   
-  # Purpose:
+  ## Purpose:
   Quest based modpack with a shop to purchase more powerful items/enchants. 
