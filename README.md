@@ -1,7 +1,7 @@
 # Great_Beginings
   Minecraft Modpack
   # Mods:
-  Draconic Evolution\n
+  Draconic Evolution
   Cooking for Blockheads
   Farming for Blockheads
   EnderIO
